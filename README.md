@@ -1,4 +1,9 @@
 # VueCLIDemo
+> vue ui
+> vue create
+>  Add npm task in package.json: 
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
 
 ## Project setup
 ```
