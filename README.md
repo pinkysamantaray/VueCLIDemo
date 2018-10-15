@@ -12,6 +12,7 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
+
 npm run serve
 ```
 
@@ -24,3 +25,9 @@ npm run build
 ```
 npm run lint
 ```
+
+#### 
+$ heroku login
+$ git init
+$ heroku git:remote -a vueclidemo //git push heroku master
+$ heroku logs
